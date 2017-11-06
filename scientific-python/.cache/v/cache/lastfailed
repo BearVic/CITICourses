@@ -1,0 +1,6 @@
+{
+  "example.py": true,
+  "scientific-python-master/testing/solutions/counting-tests/test_counting.py": true,
+  "scientific-python-master/testing/solutions/testing-basics/test_strflip.py": true,
+  "test_str.py": true
+}
